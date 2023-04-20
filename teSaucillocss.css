@@ -1,0 +1,30 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45pt;
+    color: black;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20pt;
+    color: black;
+}
+nav {
+    font-size: 20pt;
+    background-color: #99fb96;
+    max-width: 180px;
+}
+.bDiv {
+    background-color: #99fb96;
+    text-align: center;
+    max-width: 1500px;
+    min-width: 300px;
+}
+.aDiv {
+    background-color: #99fb96;
+    text-align: left;
+    max-width: 1500px;
+    min-width: 300px;
+}
+body{
+    background-image: url("./images/wood.jpg");
+}
